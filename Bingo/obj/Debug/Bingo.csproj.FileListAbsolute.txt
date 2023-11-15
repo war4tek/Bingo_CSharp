@@ -1,0 +1,74 @@
+C:\Users\war4t\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\source\repos\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\source\repos\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\source\repos\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\MyDocuments\BitBucket\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\MyDocuments\BitBucket\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\MyDocuments\BitBucket\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\MyDocuments\BitBucket\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\Dropbox\HP Envy\MyDocuments\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\OneDrive\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\Documents\BitBucket\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb

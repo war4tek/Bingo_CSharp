@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0389a3e-4f89-4cd2-b061-bbb60447726c": {
+      "ProjectGuid": "c0389a3e-4f89-4cd2-b061-bbb60447726c",
+      "DisplayName": "Bingo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
