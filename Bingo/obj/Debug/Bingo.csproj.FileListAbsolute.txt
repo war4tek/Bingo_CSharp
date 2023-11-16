@@ -72,3 +72,13 @@ C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bin
 C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
 C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.exe
 C:\Users\war4t\Documents\BitBucket\Code\DotNetPrograms\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.BingoBoard.resources
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\war4t\Documents\Github\.NET\Bingo\Bingo\obj\Debug\Bingo.pdb

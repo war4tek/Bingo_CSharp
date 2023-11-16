@@ -37,7 +37,6 @@ namespace Bingo
 
         private void ScrambleBalls()
         {
-            //all numbers have been selected for the game
             bingoBalls = new List<int>(Enumerable.Range(1, 75));
             bingoBalls.Shuffle(); 
         }
