@@ -296,9 +296,26 @@ namespace Bingo
             }
         }
 
+        private void MarkBoard_TakeTwo()
+        {
+            //switch (number)
+            //{
+            //case 1:
+            //    oneLbl.ForeColor = Color.Yellow;
+            //    break;
+            //}
+            foreach (GroupBox gb in groupBoxOne.Controls)
+            {
+
+            }
+
+
+
+        }
+
         private void ClearBoard()
         {
-            foreach (GroupBox gb in groupBox1.Controls)
+            foreach (GroupBox gb in groupBoxOne.Controls)
             {
                 foreach (Control ctrl in gb.Controls)
                 {
@@ -306,7 +323,6 @@ namespace Bingo
                 }
             }
         }
-
 
         private void startGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
