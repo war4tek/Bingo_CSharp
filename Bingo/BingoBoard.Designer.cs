@@ -100,7 +100,7 @@
             this.nineteenLbl = new System.Windows.Forms.Label();
             this.eighteenLbl = new System.Windows.Forms.Label();
             this.seventeenLbl = new System.Windows.Forms.Label();
-            this.groupBoxFour = new System.Windows.Forms.GroupBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.sixtyLbl = new System.Windows.Forms.Label();
             this.fiftynineLbl = new System.Windows.Forms.Label();
             this.fiftyeightLbl = new System.Windows.Forms.Label();
@@ -131,7 +131,7 @@
             this.groupBox5.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
-            this.groupBoxFour.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -210,7 +210,7 @@
             this.groupBoxOne.Controls.Add(this.groupBox5);
             this.groupBoxOne.Controls.Add(this.groupBox1);
             this.groupBoxOne.Controls.Add(this.groupBox2);
-            this.groupBoxOne.Controls.Add(this.groupBoxFour);
+            this.groupBoxOne.Controls.Add(this.groupBox4);
             this.groupBoxOne.ForeColor = System.Drawing.SystemColors.Control;
             this.groupBoxOne.Location = new System.Drawing.Point(92, 0);
             this.groupBoxOne.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -924,31 +924,31 @@
             this.seventeenLbl.TabIndex = 1;
             this.seventeenLbl.Text = "17";
             // 
-            // groupBoxFour
+            // groupBox4
             // 
-            this.groupBoxFour.Controls.Add(this.sixtyLbl);
-            this.groupBoxFour.Controls.Add(this.fiftynineLbl);
-            this.groupBoxFour.Controls.Add(this.fiftyeightLbl);
-            this.groupBoxFour.Controls.Add(this.fiftysevenLbl);
-            this.groupBoxFour.Controls.Add(this.fiftysixLbl);
-            this.groupBoxFour.Controls.Add(this.fiftyfiveLbl);
-            this.groupBoxFour.Controls.Add(this.fiftyfourLbl);
-            this.groupBoxFour.Controls.Add(this.fiftythreeLbl);
-            this.groupBoxFour.Controls.Add(this.fiftytwoLbl);
-            this.groupBoxFour.Controls.Add(this.fiftyoneLbl);
-            this.groupBoxFour.Controls.Add(this.fiftyLbl);
-            this.groupBoxFour.Controls.Add(this.fourtynineLbl);
-            this.groupBoxFour.Controls.Add(this.fourtyeightLbl);
-            this.groupBoxFour.Controls.Add(this.fourtysevenLbl);
-            this.groupBoxFour.Controls.Add(this.fourtysixLbl);
-            this.groupBoxFour.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBoxFour.Location = new System.Drawing.Point(16, 332);
-            this.groupBoxFour.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBoxFour.Name = "groupBoxFour";
-            this.groupBoxFour.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBoxFour.Size = new System.Drawing.Size(1264, 100);
-            this.groupBoxFour.TabIndex = 18;
-            this.groupBoxFour.TabStop = false;
+            this.groupBox4.Controls.Add(this.sixtyLbl);
+            this.groupBox4.Controls.Add(this.fiftynineLbl);
+            this.groupBox4.Controls.Add(this.fiftyeightLbl);
+            this.groupBox4.Controls.Add(this.fiftysevenLbl);
+            this.groupBox4.Controls.Add(this.fiftysixLbl);
+            this.groupBox4.Controls.Add(this.fiftyfiveLbl);
+            this.groupBox4.Controls.Add(this.fiftyfourLbl);
+            this.groupBox4.Controls.Add(this.fiftythreeLbl);
+            this.groupBox4.Controls.Add(this.fiftytwoLbl);
+            this.groupBox4.Controls.Add(this.fiftyoneLbl);
+            this.groupBox4.Controls.Add(this.fiftyLbl);
+            this.groupBox4.Controls.Add(this.fourtynineLbl);
+            this.groupBox4.Controls.Add(this.fourtyeightLbl);
+            this.groupBox4.Controls.Add(this.fourtysevenLbl);
+            this.groupBox4.Controls.Add(this.fourtysixLbl);
+            this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox4.Location = new System.Drawing.Point(16, 332);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox4.Size = new System.Drawing.Size(1264, 100);
+            this.groupBox4.TabIndex = 18;
+            this.groupBox4.TabStop = false;
             // 
             // sixtyLbl
             // 
@@ -1194,8 +1194,8 @@
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
-            this.groupBoxFour.ResumeLayout(false);
-            this.groupBoxFour.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -1272,7 +1272,7 @@
         private System.Windows.Forms.Label sixtythreeLbl;
         private System.Windows.Forms.Label sixtytwoLbl;
         private System.Windows.Forms.Label sixtyoneLbl;
-        private System.Windows.Forms.GroupBox groupBoxFour;
+        private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Label sixtyLbl;
         private System.Windows.Forms.Label fiftynineLbl;
         private System.Windows.Forms.Label fiftyeightLbl;

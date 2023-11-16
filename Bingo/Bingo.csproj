@@ -46,14 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bingo.cs" />
     <Compile Include="BingoBoard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BingoBoard.Designer.cs">
       <DependentUpon>BingoBoard.cs</DependentUpon>
     </Compile>
-    <Compile Include="Extensions.cs" />
+    <Compile Include="ThreadSafeExtension.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="BingoBoard.resx">
@@ -82,51 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Audio\eight.m4a" />
-    <Content Include="Audio\eighteen.m4a" />
-    <Content Include="Audio\eleven.m4a" />
-    <Content Include="Audio\fifteen.m4a" />
-    <Content Include="Audio\five.m4a" />
-    <Content Include="Audio\four.m4a" />
-    <Content Include="Audio\fourteen.m4a" />
-    <Content Include="Audio\fourty.m4a" />
-    <Content Include="Audio\fourtyfive.m4a" />
-    <Content Include="Audio\fourtyfour.m4a" />
-    <Content Include="Audio\fourtyone.m4a" />
-    <Content Include="Audio\fourtythree.m4a" />
-    <Content Include="Audio\fourtytwo.m4a" />
-    <Content Include="Audio\nine.m4a" />
-    <Content Include="Audio\nineteen.m4a" />
-    <Content Include="Audio\one.m4a" />
-    <Content Include="Audio\seven.m4a" />
-    <Content Include="Audio\seventeen.m4a" />
-    <Content Include="Audio\six.m4a" />
-    <Content Include="Audio\sixteen.m4a" />
-    <Content Include="Audio\ten.m4a" />
-    <Content Include="Audio\thirteen.m4a" />
-    <Content Include="Audio\thirty.m4a" />
-    <Content Include="Audio\thirtyeight.m4a" />
-    <Content Include="Audio\thirtyfive.m4a" />
-    <Content Include="Audio\thirtyfour.m4a" />
-    <Content Include="Audio\thirtynine.m4a" />
-    <Content Include="Audio\thirtyone.m4a" />
-    <Content Include="Audio\thirtyseven.m4a" />
-    <Content Include="Audio\thirtysix.m4a" />
-    <Content Include="Audio\thirtythree.m4a" />
-    <Content Include="Audio\thirtytwo.m4a" />
-    <Content Include="Audio\three.m4a" />
-    <Content Include="Audio\twelve.m4a" />
-    <Content Include="Audio\twenty.m4a" />
-    <Content Include="Audio\twentyeight.m4a" />
-    <Content Include="Audio\twentyfive.m4a" />
-    <Content Include="Audio\twentyfour.m4a" />
-    <Content Include="Audio\twentynine.m4a" />
-    <Content Include="Audio\twentyone.m4a" />
-    <Content Include="Audio\twentyseven.m4a" />
-    <Content Include="Audio\twentysix.m4a" />
-    <Content Include="Audio\twentythree.m4a" />
-    <Content Include="Audio\twentytwo.m4a" />
-    <Content Include="Audio\two.m4a" />
+    <Folder Include="Audio\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
